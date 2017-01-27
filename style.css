@@ -40,6 +40,7 @@
 		}
 		.introhome{
 			color: white;
+			padding-top: 25px;
 			text-align: center;
 			position: absolute;
 			width:700px; 
@@ -134,7 +135,7 @@
 		}
 		.titulossection1{
 			text-align: center;
-			padding-top: 20px;
+			padding-top: 40px;
 			font-size: 30px;
 			color: lightblue;
 		}
