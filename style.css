@@ -1,0 +1,213 @@
+		
+		* {
+			padding:0;
+			margin:0; 
+		   }
+		header{
+
+			background-image: url("star.jpg");
+			background-size: cover;
+			height: 100%;
+			width: 100%;
+			position: relative;
+
+		}
+		html{
+			height: 100%;
+			width: 100%
+		}
+
+		body{
+			height: 100%;
+			width: 100%;
+			font-family: Didact Gothic;
+	
+			
+
+		}
+  		#navbartopo{
+			
+			padding-top: 50px;
+			padding-bottom: 50px;
+			width: 1100px;
+			position: relative;
+			margin: 0px auto;
+			
+		}
+		#navbartopo a{
+			text-decoration: none;
+
+		}
+		.introhome{
+			color: white;
+			text-align: center;
+			position: absolute;
+			width:700px; 
+			height:200px;
+			left: calc(50% - 350px);
+			top: calc(50% - 100px);
+			font-family: Didact Gothic;
+		}
+		.introhome h2{
+			font-size: 50px;
+			color: rgb(69,22,59);
+		}
+		.introhome h3{
+			color:grey;
+			margin-bottom: 20px;
+			
+		}
+		.introhome a{
+			text-decoration: none;			
+			display: inline-block;
+			margin: 1px;
+			background-color: rgb(75,0,130);
+			color:white;
+			padding: 10px 15px;	
+			border-radius: 20px;
+			text-align: center;
+			}
+
+		.introhome a:hover{
+			background-color: rgb(25,25,112);
+			color:rgb(0,0,0);
+			}
+		.logomarca{
+			float: left;
+			color: rgb(176,224,230);
+			font-size: 32px;		
+			margin: auto 77px;				 
+			font-family: Dancing Script;
+			text-align: center;
+		}
+		.navbardireita{
+			list-style: none;
+			float: right;
+			text-align: center;
+		}
+		.navbardireita li{
+			margin-right:20px; 
+			font-size: 20px;
+			display: inline-block;
+			color:white;
+			margin-top: 10px;
+			font-family: Didact Gothic;
+		}
+		.navbardireita li:hover{
+			color:red; 	
+			
+		}
+		.primeirosection{
+			width: 31.55%;
+			display: float;
+			text-align: center;
+			margin: 11px;		
+			float: left;
+			padding-bottom: 100px;
+			padding-top: 40px;
+			color: white;
+		}
+
+		.primeirosection a{
+			display: inline-block;
+			padding: 1em 2em 1em 2em;
+			letter-spacing: 0.10em;
+			margin-top: 2em;
+			padding: 1.40em 3em;
+			background: #2651a8;
+			border-radius: 6px;
+			text-decoration: none;
+			font-weight: 700;
+			font-size: 1em;
+			color: #FFF;
+				
+
+		}
+		.primeirosection a:hover{
+			background-color: #fff;
+			color:#ccc;
+			
+		}
+		.primeirosection p{
+			padding-left: 15px;
+			padding-right: 14px;
+		}
+		.titulossection1{
+			text-align: center;
+			padding-top: 20px;
+			font-size: 30px;
+			color: lightblue;
+		}
+
+		.segundosection{
+			
+			width: 100%;
+			display: float;
+			text-align:center;
+			margin: 11px;		
+			float: left;
+			padding-bottom: 100px;
+			padding-top: 40px;
+			color: white;
+		}
+
+		.segundosection a{
+			display: inline-block;
+			padding: 1em 2em 1em 2em;
+			letter-spacing: 0.10em;
+			margin-top: 2em;
+			padding: 1.40em 3em;
+			background: #2651a8;
+			border-radius: 6px;
+			text-decoration: none;
+			font-weight: 700;
+			font-size: 1em;
+			color: #FFF;
+				
+
+		}
+		.segundosection a:hover{
+			background-color: #fff;
+			color:#ccc;
+			
+		}
+		.segundosection p{
+			padding-left: 15px;
+			padding-right: 14px;
+		}
+		
+		.titulosection2{
+			text-align: center;
+			padding-top: 100px;
+			font-size: 30px;
+			color: lightblue;
+
+		}
+		.container1{
+			width: 100%;
+			height: 100%;
+			background-image: url("star2.jpg");
+			background-size: contain;
+			  background-size: 100% 100%;
+		
+		}
+		
+		.container2{
+			width: 100%;
+			height: 100%;
+			background-image: url("star3.jpg");
+			background-size: cover;
+		}
+		.containerfooter{
+			width: 100%;
+			display: float;
+			text-align: center;
+			float: left;
+			color: rgba(255,255,255,0.3);
+			background-color: black;
+		}
+		.containerfooter a{
+			text-decoration: none;
+ 			color: rgba(255,255,255,0.3);
+
+		}
